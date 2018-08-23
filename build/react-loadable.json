@@ -1,0 +1,1104 @@
+{
+  "warning": [
+    {
+      "id": 3,
+      "name": "../node_modules/_warning@3.0.0@warning/browser.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 29,
+      "name": "../node_modules/_warning@4.0.2@warning/warning.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 3,
+      "name": "../node_modules/_warning@3.0.0@warning/browser.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    },
+    {
+      "id": 29,
+      "name": "../node_modules/_warning@4.0.2@warning/warning.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./PathUtils": [
+    {
+      "id": 4,
+      "name": "../node_modules/_history@4.7.2@history/es/PathUtils.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 27,
+      "name": "../node_modules/_history@4.7.2@history/PathUtils.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 4,
+      "name": "../node_modules/_history@4.7.2@history/es/PathUtils.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    },
+    {
+      "id": 27,
+      "name": "../node_modules/_history@4.7.2@history/PathUtils.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./LocationUtils": [
+    {
+      "id": 6,
+      "name": "../node_modules/_history@4.7.2@history/es/LocationUtils.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 73,
+      "name": "../node_modules/_history@4.7.2@history/LocationUtils.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 6,
+      "name": "../node_modules/_history@4.7.2@history/es/LocationUtils.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    },
+    {
+      "id": 73,
+      "name": "../node_modules/_history@4.7.2@history/LocationUtils.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./createTransitionManager": [
+    {
+      "id": 10,
+      "name": "../node_modules/_history@4.7.2@history/es/createTransitionManager.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 74,
+      "name": "../node_modules/_history@4.7.2@history/createTransitionManager.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 10,
+      "name": "../node_modules/_history@4.7.2@history/es/createTransitionManager.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    },
+    {
+      "id": 74,
+      "name": "../node_modules/_history@4.7.2@history/createTransitionManager.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "../actions/home": [
+    {
+      "id": 24,
+      "name": "./actions/home.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 24,
+      "name": "./actions/home.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "resolve-pathname": [
+    {
+      "id": 25,
+      "name": "../node_modules/_resolve-pathname@2.2.0@resolve-pathname/index.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 25,
+      "name": "../node_modules/_resolve-pathname@2.2.0@resolve-pathname/index.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "value-equal": [
+    {
+      "id": 26,
+      "name": "../node_modules/_value-equal@0.4.0@value-equal/index.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 26,
+      "name": "../node_modules/_value-equal@0.4.0@value-equal/index.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "react-router/es/Router": [
+    {
+      "id": 28,
+      "name": "../node_modules/_react-router@4.3.1@react-router/es/Router.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 28,
+      "name": "../node_modules/_react-router@4.3.1@react-router/es/Router.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./DOMUtils": [
+    {
+      "id": 30,
+      "name": "../node_modules/_history@4.7.2@history/es/DOMUtils.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 75,
+      "name": "../node_modules/_history@4.7.2@history/DOMUtils.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 30,
+      "name": "../node_modules/_history@4.7.2@history/es/DOMUtils.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    },
+    {
+      "id": 75,
+      "name": "../node_modules/_history@4.7.2@history/DOMUtils.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "/Users/jiangyubei/Documents/workspace/react-redux-ssr/src/index.js": [
+    {
+      "id": 31,
+      "name": "./index.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 31,
+      "name": "./index.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "react-dom": [
+    {
+      "id": 33,
+      "name": "../node_modules/_react-dom@16.4.2@react-dom/index.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 33,
+      "name": "../node_modules/_react-dom@16.4.2@react-dom/index.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./cjs/react-dom.production.min.js": [
+    {
+      "id": 34,
+      "name": "../node_modules/_react-dom@16.4.2@react-dom/cjs/react-dom.production.min.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 34,
+      "name": "../node_modules/_react-dom@16.4.2@react-dom/cjs/react-dom.production.min.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "fbjs/lib/ExecutionEnvironment": [
+    {
+      "id": 35,
+      "name": "../node_modules/_fbjs@0.8.17@fbjs/lib/ExecutionEnvironment.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 35,
+      "name": "../node_modules/_fbjs@0.8.17@fbjs/lib/ExecutionEnvironment.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "fbjs/lib/getActiveElement": [
+    {
+      "id": 36,
+      "name": "../node_modules/_fbjs@0.8.17@fbjs/lib/getActiveElement.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 36,
+      "name": "../node_modules/_fbjs@0.8.17@fbjs/lib/getActiveElement.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "fbjs/lib/shallowEqual": [
+    {
+      "id": 37,
+      "name": "../node_modules/_fbjs@0.8.17@fbjs/lib/shallowEqual.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 37,
+      "name": "../node_modules/_fbjs@0.8.17@fbjs/lib/shallowEqual.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "fbjs/lib/containsNode": [
+    {
+      "id": 38,
+      "name": "../node_modules/_fbjs@0.8.17@fbjs/lib/containsNode.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 38,
+      "name": "../node_modules/_fbjs@0.8.17@fbjs/lib/containsNode.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./isTextNode": [
+    {
+      "id": 39,
+      "name": "../node_modules/_fbjs@0.8.17@fbjs/lib/isTextNode.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 39,
+      "name": "../node_modules/_fbjs@0.8.17@fbjs/lib/isTextNode.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./isNode": [
+    {
+      "id": 40,
+      "name": "../node_modules/_fbjs@0.8.17@fbjs/lib/isNode.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 40,
+      "name": "../node_modules/_fbjs@0.8.17@fbjs/lib/isNode.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "redux-thunk": [
+    {
+      "id": 67,
+      "name": "../node_modules/_redux-thunk@2.3.0@redux-thunk/es/index.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 67,
+      "name": "../node_modules/_redux-thunk@2.3.0@redux-thunk/es/index.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "redux-devtools-extension/developmentOnly": [
+    {
+      "id": 68,
+      "name": "../node_modules/_redux-devtools-extension@2.13.5@redux-devtools-extension/developmentOnly.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 68,
+      "name": "../node_modules/_redux-devtools-extension@2.13.5@redux-devtools-extension/developmentOnly.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./reducers/index": [
+    {
+      "id": 69,
+      "name": "./reducers/index.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 69,
+      "name": "./reducers/index.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./home": [
+    {
+      "id": 70,
+      "name": "./reducers/home.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 70,
+      "name": "./reducers/home.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "../model/mock": [
+    {
+      "id": 71,
+      "name": "./model/mock.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 71,
+      "name": "./model/mock.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "history/createBrowserHistory": [
+    {
+      "id": 72,
+      "name": "../node_modules/_history@4.7.2@history/createBrowserHistory.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 72,
+      "name": "../node_modules/_history@4.7.2@history/createBrowserHistory.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "react-router-redux/es/ConnectedRouter": [
+    {
+      "id": 76,
+      "name": "../node_modules/_react-router-redux@5.0.0-alpha.9@react-router-redux/es/ConnectedRouter.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 76,
+      "name": "../node_modules/_react-router-redux@5.0.0-alpha.9@react-router-redux/es/ConnectedRouter.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./reducer": [
+    {
+      "id": 77,
+      "name": "../node_modules/_react-router-redux@5.0.0-alpha.9@react-router-redux/es/reducer.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 77,
+      "name": "../node_modules/_react-router-redux@5.0.0-alpha.9@react-router-redux/es/reducer.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "react-router-redux/es/middleware": [
+    {
+      "id": 78,
+      "name": "../node_modules/_react-router-redux@5.0.0-alpha.9@react-router-redux/es/middleware.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 78,
+      "name": "../node_modules/_react-router-redux@5.0.0-alpha.9@react-router-redux/es/middleware.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./actions": [
+    {
+      "id": 79,
+      "name": "../node_modules/_react-router-redux@5.0.0-alpha.9@react-router-redux/es/actions.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 79,
+      "name": "../node_modules/_react-router-redux@5.0.0-alpha.9@react-router-redux/es/actions.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "react-router-dom/es/Router": [
+    {
+      "id": 80,
+      "name": "../node_modules/_react-router-dom@4.3.1@react-router-dom/es/Router.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 80,
+      "name": "../node_modules/_react-router-dom@4.3.1@react-router-dom/es/Router.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "react-loadable": [
+    {
+      "id": 81,
+      "name": "../node_modules/_react-loadable@5.5.0@react-loadable/lib/index.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 81,
+      "name": "../node_modules/_react-loadable@5.5.0@react-loadable/lib/index.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./Containers/App.jsx": [
+    {
+      "id": 82,
+      "name": "./Containers/App.jsx",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 82,
+      "name": "./Containers/App.jsx",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "react-router-dom/es/Route": [
+    {
+      "id": 83,
+      "name": "../node_modules/_react-router-dom@4.3.1@react-router-dom/es/Route.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 83,
+      "name": "../node_modules/_react-router-dom@4.3.1@react-router-dom/es/Route.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "react-router/es/Route": [
+    {
+      "id": 84,
+      "name": "../node_modules/_react-router@4.3.1@react-router/es/Route.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 84,
+      "name": "../node_modules/_react-router@4.3.1@react-router/es/Route.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./matchPath": [
+    {
+      "id": 85,
+      "name": "../node_modules/_react-router@4.3.1@react-router/es/matchPath.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 85,
+      "name": "../node_modules/_react-router@4.3.1@react-router/es/matchPath.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "path-to-regexp": [
+    {
+      "id": 86,
+      "name": "../node_modules/_path-to-regexp@1.7.0@path-to-regexp/index.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 86,
+      "name": "../node_modules/_path-to-regexp@1.7.0@path-to-regexp/index.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "isarray": [
+    {
+      "id": 87,
+      "name": "../node_modules/_isarray@0.0.1@isarray/index.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 87,
+      "name": "../node_modules/_isarray@0.0.1@isarray/index.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./Home": [
+    {
+      "id": 88,
+      "name": "./Containers/Home.jsx",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 88,
+      "name": "./Containers/Home.jsx",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "react-router-dom/es/Link": [
+    {
+      "id": 89,
+      "name": "../node_modules/_react-router-dom@4.3.1@react-router-dom/es/Link.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 89,
+      "name": "../node_modules/_react-router-dom@4.3.1@react-router-dom/es/Link.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "history": [
+    {
+      "id": 90,
+      "name": "../node_modules/_history@4.7.2@history/es/index.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 90,
+      "name": "../node_modules/_history@4.7.2@history/es/index.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./createBrowserHistory": [
+    {
+      "id": 91,
+      "name": "../node_modules/_history@4.7.2@history/es/createBrowserHistory.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 91,
+      "name": "../node_modules/_history@4.7.2@history/es/createBrowserHistory.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./createHashHistory": [
+    {
+      "id": 92,
+      "name": "../node_modules/_history@4.7.2@history/es/createHashHistory.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 92,
+      "name": "../node_modules/_history@4.7.2@history/es/createHashHistory.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./createMemoryHistory": [
+    {
+      "id": 93,
+      "name": "../node_modules/_history@4.7.2@history/es/createMemoryHistory.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 93,
+      "name": "../node_modules/_history@4.7.2@history/es/createMemoryHistory.js",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "../scss/home.scss": [
+    {
+      "id": 94,
+      "name": "./scss/home.scss",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 94,
+      "name": "./scss/home.scss",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./Stepper": [
+    {
+      "id": 95,
+      "name": "./Containers/Stepper.jsx",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 95,
+      "name": "./Containers/Stepper.jsx",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./Page": [
+    {
+      "id": 96,
+      "name": "./Containers/Page.jsx",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 96,
+      "name": "./Containers/Page.jsx",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./Tab": [
+    {
+      "id": 97,
+      "name": "./Containers/Tab.jsx",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 97,
+      "name": "./Containers/Tab.jsx",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "./User": [
+    {
+      "id": 98,
+      "name": "./Containers/User.jsx",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    },
+    {
+      "id": 98,
+      "name": "./Containers/User.jsx",
+      "file": "css/main.css",
+      "publicPath": "/css/main.css"
+    }
+  ],
+  "react": [
+    {
+      "id": 0,
+      "name": "../node_modules/_react@16.4.2@react/index.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "prop-types": [
+    {
+      "id": 1,
+      "name": "../node_modules/_prop-types@15.6.2@prop-types/index.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "invariant": [
+    {
+      "id": 2,
+      "name": "../node_modules/_invariant@2.2.4@invariant/browser.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "redux": [
+    {
+      "id": 5,
+      "name": "../node_modules/_redux@3.7.2@redux/es/index.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "react-redux": [
+    {
+      "id": 7,
+      "name": "../node_modules/_react-redux@5.0.7@react-redux/es/index.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "../utils/warning": [
+    {
+      "id": 8,
+      "name": "../node_modules/_react-redux@5.0.7@react-redux/es/utils/warning.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "lodash-es/isPlainObject": [
+    {
+      "id": 9,
+      "name": "../node_modules/_lodash-es@4.17.10@lodash-es/isPlainObject.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "object-assign": [
+    {
+      "id": 11,
+      "name": "../node_modules/_object-assign@4.1.1@object-assign/index.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "fbjs/lib/invariant": [
+    {
+      "id": 12,
+      "name": "../node_modules/_fbjs@0.8.17@fbjs/lib/invariant.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "fbjs/lib/emptyObject": [
+    {
+      "id": 13,
+      "name": "../node_modules/_fbjs@0.8.17@fbjs/lib/emptyObject.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "fbjs/lib/emptyFunction": [
+    {
+      "id": 14,
+      "name": "../node_modules/_fbjs@0.8.17@fbjs/lib/emptyFunction.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "../utils/PropTypes": [
+    {
+      "id": 15,
+      "name": "../node_modules/_react-redux@5.0.7@react-redux/es/utils/PropTypes.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./components/connectAdvanced": [
+    {
+      "id": 16,
+      "name": "../node_modules/_react-redux@5.0.7@react-redux/es/components/connectAdvanced.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./createStore": [
+    {
+      "id": 17,
+      "name": "../node_modules/_redux@3.7.2@redux/es/createStore.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./_Symbol.js": [
+    {
+      "id": 18,
+      "name": "../node_modules/_lodash-es@4.17.10@lodash-es/_Symbol.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./../../_webpack@3.12.0@webpack/buildin/global.js": [
+    {
+      "id": 19,
+      "name": "../node_modules/_webpack@3.12.0@webpack/buildin/global.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./utils/warning": [
+    {
+      "id": 20,
+      "name": "../node_modules/_redux@3.7.2@redux/es/utils/warning.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./compose": [
+    {
+      "id": 21,
+      "name": "../node_modules/_redux@3.7.2@redux/es/compose.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./wrapMapToProps": [
+    {
+      "id": 22,
+      "name": "../node_modules/_react-redux@5.0.7@react-redux/es/connect/wrapMapToProps.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "../utils/verifyPlainObject": [
+    {
+      "id": 23,
+      "name": "../node_modules/_react-redux@5.0.7@react-redux/es/utils/verifyPlainObject.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./cjs/react.production.min.js": [
+    {
+      "id": 32,
+      "name": "../node_modules/_react@16.4.2@react/cjs/react.production.min.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./components/Provider": [
+    {
+      "id": 41,
+      "name": "../node_modules/_react-redux@5.0.7@react-redux/es/components/Provider.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./factoryWithThrowingShims": [
+    {
+      "id": 42,
+      "name": "../node_modules/_prop-types@15.6.2@prop-types/factoryWithThrowingShims.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./lib/ReactPropTypesSecret": [
+    {
+      "id": 43,
+      "name": "../node_modules/_prop-types@15.6.2@prop-types/lib/ReactPropTypesSecret.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "hoist-non-react-statics": [
+    {
+      "id": 44,
+      "name": "../node_modules/_hoist-non-react-statics@2.5.5@hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "../utils/Subscription": [
+    {
+      "id": 45,
+      "name": "../node_modules/_react-redux@5.0.7@react-redux/es/utils/Subscription.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./connect/connect": [
+    {
+      "id": 46,
+      "name": "../node_modules/_react-redux@5.0.7@react-redux/es/connect/connect.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "../utils/shallowEqual": [
+    {
+      "id": 47,
+      "name": "../node_modules/_react-redux@5.0.7@react-redux/es/utils/shallowEqual.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./mapDispatchToProps": [
+    {
+      "id": 48,
+      "name": "../node_modules/_react-redux@5.0.7@react-redux/es/connect/mapDispatchToProps.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./_baseGetTag.js": [
+    {
+      "id": 49,
+      "name": "../node_modules/_lodash-es@4.17.10@lodash-es/_baseGetTag.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./_root.js": [
+    {
+      "id": 50,
+      "name": "../node_modules/_lodash-es@4.17.10@lodash-es/_root.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./_freeGlobal.js": [
+    {
+      "id": 51,
+      "name": "../node_modules/_lodash-es@4.17.10@lodash-es/_freeGlobal.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./_getRawTag.js": [
+    {
+      "id": 52,
+      "name": "../node_modules/_lodash-es@4.17.10@lodash-es/_getRawTag.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./_objectToString.js": [
+    {
+      "id": 53,
+      "name": "../node_modules/_lodash-es@4.17.10@lodash-es/_objectToString.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./_getPrototype.js": [
+    {
+      "id": 54,
+      "name": "../node_modules/_lodash-es@4.17.10@lodash-es/_getPrototype.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./_overArg.js": [
+    {
+      "id": 55,
+      "name": "../node_modules/_lodash-es@4.17.10@lodash-es/_overArg.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./isObjectLike.js": [
+    {
+      "id": 56,
+      "name": "../node_modules/_lodash-es@4.17.10@lodash-es/isObjectLike.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "symbol-observable": [
+    {
+      "id": 57,
+      "name": "../node_modules/_symbol-observable@1.2.0@symbol-observable/es/index.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./../../_webpack@3.12.0@webpack/buildin/module.js": [
+    {
+      "id": 58,
+      "name": "../node_modules/_webpack@3.12.0@webpack/buildin/module.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./ponyfill.js": [
+    {
+      "id": 59,
+      "name": "../node_modules/_symbol-observable@1.2.0@symbol-observable/es/ponyfill.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./combineReducers": [
+    {
+      "id": 60,
+      "name": "../node_modules/_redux@3.7.2@redux/es/combineReducers.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./bindActionCreators": [
+    {
+      "id": 61,
+      "name": "../node_modules/_redux@3.7.2@redux/es/bindActionCreators.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./applyMiddleware": [
+    {
+      "id": 62,
+      "name": "../node_modules/_redux@3.7.2@redux/es/applyMiddleware.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./mapStateToProps": [
+    {
+      "id": 63,
+      "name": "../node_modules/_react-redux@5.0.7@react-redux/es/connect/mapStateToProps.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./mergeProps": [
+    {
+      "id": 64,
+      "name": "../node_modules/_react-redux@5.0.7@react-redux/es/connect/mergeProps.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./selectorFactory": [
+    {
+      "id": 65,
+      "name": "../node_modules/_react-redux@5.0.7@react-redux/es/connect/selectorFactory.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "./verifySubselectors": [
+    {
+      "id": 66,
+      "name": "../node_modules/_react-redux@5.0.7@react-redux/es/connect/verifySubselectors.js",
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ],
+  "undefined": [
+    {
+      "id": 99,
+      "name": null,
+      "file": "vendors.js",
+      "publicPath": "/vendors.js"
+    }
+  ]
+}
