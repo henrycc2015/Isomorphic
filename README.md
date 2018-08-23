@@ -3,5 +3,5 @@
 
 * 1、本地服务 npm run start
 * 2、服务端： npm run build
-            npm run server
+             +npm run server
 
